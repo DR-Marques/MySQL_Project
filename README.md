@@ -4,7 +4,7 @@ This project contains a training database for practicing **SQL** in MySQL, inclu
 
 ## Project Structure
 
-- `aula_sql_qa.sql` : Script to create the database, tables, and insert initial data.  
+- `orders_sql_qa.sql` : Script to create the database, tables, and insert initial data.  
 
 ### Tables
 
